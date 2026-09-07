@@ -1,0 +1,4 @@
+product_name,qty,client,line_name,status,progress
+Mobile,50,Nibal,Electronics Line 1,COMPLETED,100
+Mobile,2,Nibal,Electronics Line 1,COMPLETED,100
+Laptop,3,Baraa,Electronics Line 1,COMPLETED,100
